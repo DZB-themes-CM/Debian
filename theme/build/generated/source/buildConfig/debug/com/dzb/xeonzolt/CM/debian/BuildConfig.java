@@ -1,11 +1,11 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.your.theme.template.test;
+package com.dzb.xeonzolt.CM.debian;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.your.theme.template.test";
+  public static final String APPLICATION_ID = "com.dzb.xeonzolt.CM.debian";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;

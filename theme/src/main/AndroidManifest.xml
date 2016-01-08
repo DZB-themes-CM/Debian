@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.your.theme.template">
+    package="com.dzb.xeonzolt.CM.debian">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 

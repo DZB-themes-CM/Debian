@@ -17,8 +17,8 @@
 
 <resources>
 
-    <string name="theme_name">Theme Template</string>
-    <string name="theme_author">CyanogenMod</string>
-    <string name="theme_email">support@themetemplate.com</string>
+    <string name="theme_name">DebIan</string>
+    <string name="theme_author">dzb ( Xeon Zolt )</string>
+    <string name="theme_email">xeon.harsh@gmail.com</string>
 
 </resources>

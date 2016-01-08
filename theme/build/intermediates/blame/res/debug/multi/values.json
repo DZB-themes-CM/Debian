@@ -7,17 +7,17 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 52,
-                    "endOffset": 103
+                    "endColumn": 58,
+                    "endOffset": 109
                 },
                 "from": {
                     "file": "/home/xeon/GITS/Debian/theme/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 720,
-                        "endColumn": 52,
-                        "endOffset": 768
+                        "startOffset": 712,
+                        "endColumn": 58,
+                        "endOffset": 766
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 108,
-                    "endColumn": 65,
-                    "endOffset": 169
+                    "startOffset": 114,
+                    "endColumn": 60,
+                    "endOffset": 170
                 },
                 "from": {
                     "file": "/home/xeon/GITS/Debian/theme/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 773,
-                        "endColumn": 65,
-                        "endOffset": 834
+                        "startOffset": 771,
+                        "endColumn": 60,
+                        "endOffset": 827
                     }
                 }
             },
@@ -44,9 +44,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 174,
-                    "endColumn": 53,
-                    "endOffset": 223
+                    "startOffset": 175,
+                    "endColumn": 45,
+                    "endOffset": 216
                 },
                 "from": {
                     "file": "/home/xeon/GITS/Debian/theme/src/main/res/values/strings.xml",
@@ -54,8 +54,8 @@
                         "startLine": 19,
                         "startColumn": 4,
                         "startOffset": 666,
-                        "endColumn": 53,
-                        "endOffset": 715
+                        "endColumn": 45,
+                        "endOffset": 707
                     }
                 }
             },
@@ -63,42 +63,26 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 228,
+                    "startOffset": 221,
                     "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 514
+                    "endOffset": 507
                 },
                 "from": {
-                    "file": "/home/xeon/GITS/Debian/theme/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 835,
-                        "endLine": 29,
-                        "endColumn": 12,
-                        "endOffset": 1121
-                    }
+                    "file": "/home/xeon/GITS/Debian/theme/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 519,
+                    "startOffset": 512,
                     "endLine": 14,
                     "endColumn": 12,
-                    "endOffset": 674
+                    "endOffset": 667
                 },
                 "from": {
-                    "file": "/home/xeon/GITS/Debian/theme/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1159,
-                        "endLine": 34,
-                        "endColumn": 12,
-                        "endOffset": 1314
-                    }
+                    "file": "/home/xeon/GITS/Debian/theme/src/main/res/values/styles.xml"
                 }
             }
         ]

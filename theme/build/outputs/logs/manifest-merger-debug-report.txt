@@ -2,7 +2,7 @@
 manifest
 ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:18:1-33:12
 	package
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:19:5-38
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:19:5-41
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 	android:versionName
