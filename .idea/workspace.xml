@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3100f53-0f5d-430f-862b-7caec4af8c59" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/build/intermediates/assets/release/alarms/CyanAlarm.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/build/intermediates/assets/release/notifications/CyanDoink.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/build/intermediates/assets/release/ringtones/CyanTone.ogg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/intermediates/classes/release/com/dzb/xeonzolt/CM/debian/BuildConfig.class" afterPath="$PROJECT_DIR$/theme/build/intermediates/classes/release/com/dzb/xeonzolt/CM/debian/BuildConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/theme/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/intermediates/res/resources-release.ap_" afterPath="$PROJECT_DIR$/theme/build/intermediates/res/resources-release.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/theme/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/outputs/apk/theme-release-unaligned.apk" afterPath="$PROJECT_DIR$/theme/build/outputs/apk/theme-release-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/theme/build/intermediates/manifests/full/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/generated/source/buildConfig/release/com/dzb/xeonzolt/CM/debian/BuildConfig.java" afterPath="$PROJECT_DIR$/theme/build/generated/source/buildConfig/release/com/dzb/xeonzolt/CM/debian/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/outputs/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/theme/build/outputs/lint-results-release-fatal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/theme/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/theme/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/generated/source/buildConfig/androidTest/debug/com/dzb/xeonzolt/CM/debian/test/BuildConfig.java" afterPath="$PROJECT_DIR$/theme/build/generated/source/buildConfig/androidTest/debug/com/dzb/xeonzolt/CM/debian/test/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build/generated/source/buildConfig/debug/com/dzb/xeonzolt/CM/debian/BuildConfig.java" afterPath="$PROJECT_DIR$/theme/build/generated/source/buildConfig/debug/com/dzb/xeonzolt/CM/debian/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/build.gradle" afterPath="$PROJECT_DIR$/theme/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Debian.iws" />
@@ -63,8 +55,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theme/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40650406">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.36585367">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -1245,7 +1237,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4335425399962" />
+        <entry key="$PROJECT_DIR$" value="4335465727613" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1859,14 +1851,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.4969651" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5212443" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5212443" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.47875568" order="9" side_tool="false" content_ui="tabs" />
@@ -2010,8 +2002,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40650406">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.36585367">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
