@@ -17,8 +17,8 @@
 
 <resources>
 
-    <string name="theme_name">DebIan</string>
-    <string name="theme_author">dzb ( Xeon Zolt )</string>
-    <string name="theme_email">xeon.harsh@gmail.com</string>
+    <string name="theme_name" translatable="false">DebIan</string>
+    <string name="theme_author" translatable="false">dzb ( Xeon Zolt )</string>
+    <string name="theme_email" translatable="false">Themes@7dzb.com</string>
 
 </resources>

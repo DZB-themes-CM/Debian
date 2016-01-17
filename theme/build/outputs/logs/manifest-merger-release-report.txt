@@ -1,57 +1,92 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:18:1-33:12
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:17:1-54:12
 	package
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:19:5-41
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:18:5-41
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:17:11-69
 	android:versionCode
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
-uses-feature#org.cyanogenmod.theme
-ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:21:5-82
-	android:required
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:21:19-42
-	android:name
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:21:43-79
 uses-sdk
-ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:23:5-74
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:23:42-71
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:22:9-38
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:23:15-41
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:21:9-35
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
 		INJECTED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml
+uses-feature#org.cyanogenmod.theme
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:24:5-26:35
+	android:required
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:26:9-32
+	android:name
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:25:9-45
 meta-data#org.cyanogenmod.theme.name
-ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:25:5-94
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:28:5-30:46
 	android:value
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:25:58-92
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:30:9-43
 	android:name
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:25:16-57
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:29:9-50
 meta-data#org.cyanogenmod.theme.author
-ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:26:5-99
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:31:5-33:48
 	android:value
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:26:60-96
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:33:9-45
 	android:name
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:26:16-59
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:32:9-52
 meta-data#org.cyanogenmod.theme.email
-ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:27:5-97
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:34:5-36:47
 	android:value
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:27:59-94
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:36:9-44
 	android:name
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:27:16-58
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:35:9-51
+uses-permission#android.permission.INTERNET
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:38:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:38:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:39:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:39:22-76
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:41:5-89
+	android:name
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:41:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:42:5-83
+	android:name
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:42:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:43:5-88
+	android:name
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:43:30-85
 application
-ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:29:5-31:45
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:45:5-52:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
 	android:hasCode
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:29:18-41
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:46:9-32
 	android:label
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:31:9-43
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:48:9-43
 	android:icon
-		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:30:9-45
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:47:9-45
+meta-data#com.google.android.gms.version
+ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:49:9-51:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/xeon/GITS/Debian/theme/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:51:13-66
+	android:name
+		ADDED from /home/xeon/GITS/Debian/theme/src/main/AndroidManifest.xml:50:13-58
